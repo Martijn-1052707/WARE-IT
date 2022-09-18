@@ -1,2 +1,2 @@
-# WARE-IT
-PROJECT 
+# Ware-it
+Projects
